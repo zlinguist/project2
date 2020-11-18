@@ -42,7 +42,7 @@ for x in lat_lng_str:
             "location": x,
             "radius": 1000,
             "keyword": y,
-            "key": "AIzaSyDb9PBr8sr8rbn1SsgATRHH513ptYPaxCc"
+            "key": {key}
             })
             locations.append({
                 "name": r.json()["results"][0]["name"],
