@@ -7,13 +7,13 @@ app = Flask(__name__)
 def index():
     return render_template("index.html")
 
-# @app.route("/second-route")
+# @app.route("/user_input")
 
-# @app.route("/third-route")
+# @app.route("/filtered_data")
 
-# @app.route("/fourth-route")
+# @app.route("/visualizations")
 
-# @app.route("/fifth-route")
+# @app.route("/final_schedule")
 
 if __name__ == "__main__":
     app.run(debug=True)
