@@ -49,7 +49,7 @@
                     <hr>
                     <p>We have divided Austin into the following sections:</p>
                     <a target="_blank" href="static/austin-map.png">
-                        <img width=650 src = "static/austin-map.png">
+                        <img width=600 height=800 src = "static/austin-map.png">
                         <!-- <img width=650 src = "{{ url_for('static', filename='austin-map.png') }}"> -->
                     </a>
                 </div>
@@ -83,12 +83,12 @@
                                 <th>Rating</th>
                                 <th>Type</th>
                             </tr>
-                                {% for ___ in ___%}
+                                {% for location in locations2%}
                             <tr>
-                                <td>{{ ___.name }}</td>
-                                <td>{{ ___.location }}</td>
-                                <td>{{ ___.rating }}</td>
-                                <td>{{ ___.type }}</td>
+                                <td>{{ locations2.name }}</td>
+                                <td>{{ locations2.latitude_region }}</td>
+                                <td>{{ locations2.rating }}</td>
+                                <td>{{ locations2.types1 }}</td>
                             </tr>
                             {% endfor %}
                     </table>
