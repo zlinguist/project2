@@ -22,7 +22,7 @@
                         </a>
                         <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
                             <a class="dropdown-item" href="{{ url_for('user_input') }}">User Input</a> 
-                            <a class="dropdown-item" href="{{ url_for('filter_data') }}">Filtered Data</a> 
+                            <a class="dropdown-item" href="{{ url_for('filtered_data') }}">Filtered Data</a> 
                             <a class="dropdown-item" href="{{ url_for('visualizations') }}">Visualizations</a>  
                             <a class="dropdown-item" href="{{ url_for('final_schedule') }}">Final Schedule</a> 
                         </div>
@@ -83,14 +83,14 @@
                                 <th>Rating</th>
                                 <th>Type</th>
                             </tr>
-                                {% for location in locations2%}
+                                {% for location in locations_db%}
                             <tr>
-                                <td>{{ locations2.name }}</td>
-                                <td>{{ locations2.latitude_region }}</td>
-                                <td>{{ locations2.rating }}</td>
-                                <td>{{ locations2.types1 }}</td>
+                                <td>{{ location.name}}</td>
+                                <td>{{ location.latitude_region }}</td>
+                                <td>{{ location.rating }}</td>
+                                <td>{{ location.types1 }}</td>
                             </tr>
-                            {% endfor %}
+                                {% endfor %}
                     </table>
 
                 </div>
