@@ -45,6 +45,46 @@
     <div class="container">
         <div class="form-row">
             <div class="col">
+                <div class="form-group"><label for="Find_Location"><strong>Find Location</strong></label><input class="form-control" type="text" placeholder="enter new location" name="new_location" /></div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col">
+                <form action=“/filtered_data” method = “POST”>
+                    <label for=“location”>Choose a location:</label>
+                    <select name=“location” id=“location”>
+                        <option value=“North”>North Austin</option>
+                        <option value=“Central”>Cental Austin</option>
+                        <option value=“South”>South Austin</option>
+                    </select>
+                    <label for=“type”>Choose an activity type:</label>
+                    <select name=“type” id=“type”>
+                        <option value=“Point_of_interest”>Point of Interest</option>
+                        <option value=“Bar”>Bars</option>
+                        <option value=“Shopping”>Shopping</option>
+                        <option value=“Tourist_Attraction”>Tourist Attraction</option>
+                        <option value=“Restaurant”>Restaurant</option>
+                        <option value=“Landmark”>Landmark</option>
+                        <option value=“Establishment”>Establishment</option>
+                        <option value=“Museum”>Museum</option>
+                    </select>
+                    <label for=“rating”>Choose your rating:</label>
+                    <select name=“rating” id=“rating”>
+                        <option value=“5”>5</option>
+                        <option value=“4”>4</option>
+                        <option value=“3”>3</option>
+                        <option value=“2”>2</option>
+                        <option value=“1”>1</option>
+                    </select>
+                    <label for=“Submit”>Submit:</label>
+                    <input type="submit" value="Filter Data">
+                </form>
+            </div>
+        </div>
+    </div>     
+    <div class="container">
+        <div class="form-row">
+            <div class="col">
                 <div class="form-group"><label for="New_Location"><strong>New Location</strong></label><input class="form-control" type="text" placeholder="enter new location" name="new_location" /></div>
             </div>
         </div>
@@ -80,6 +120,7 @@
             </div>
         </div>
     </div>
+
 
     <footer>
         <div class="footer">Copyright &copy; Akik | Caroline | Ed | Natalia | Zach  2020</div>
