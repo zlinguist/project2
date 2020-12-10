@@ -49,8 +49,8 @@
                     <hr>
                     <p>We have divided Austin into the following sections:</p>
                     <a target="_blank" href="static/austin-map.png">
-                        <img width=600 height=800 src = "static/austin-map.png">
-                        <!-- <img width=650 src = "{{ url_for('static', filename='austin-map.png') }}"> -->
+                        <!-- <img width=600 height=800 src = "static/austin-map.png"> -->
+                        <img width=650 src = "{{ url_for('static', filename='austin-map.png') }}">
                     </a>
                 </div>
             </div>
@@ -76,13 +76,16 @@
                 <div class="jumbotron">
                     <h3 class="p-title">Preview Activities</h3>
                     <hr>
-                    <table>
+                    <table id="activity-table" class="table table-striped">
+                        <thead>
                             <tr>
                                 <th>Name</th>
                                 <th>Location</th>
                                 <th>Rating</th>
                                 <th>Type</th>
                             </tr>
+                        </thead>
+                        <tbody>
                                 {% for location in locations_db%}
                             <tr>
                                 <td>{{ location.name}}</td>
@@ -91,6 +94,7 @@
                                 <td>{{ location.types1 }}</td>
                             </tr>
                                 {% endfor %}
+                        </tbody>
                     </table>
 
                 </div>
