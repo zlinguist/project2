@@ -40,7 +40,6 @@ six==1.15.0
 soupsieve==2.0.1
 splinter==0.14.0
 tornado==6.1
-traitlets==5.0.5
 urllib3==1.26.2
 virtualenv==20.0.35
 virtualenv-clone==0.5.4
