@@ -45,7 +45,7 @@
     <div class="container">
         <div class="row">
             <div class="col">
-                <form action=“/filtered_data” method = “POST”>
+                <form action="{{ url_for('filtered_data') }}" method = “POST”>
                     <label for=“location”>Choose a location:</label>
                     <select name=“location” id=“location”>
                         <option value=“North”>North Austin</option>
@@ -83,38 +83,40 @@
     <div class="container">
         <div class="form-row">
             <div class="col">
-                <div class="form-group"><label for="New_Location"><strong>New Location</strong></label><input class="form-control" type="text" placeholder="enter new location" name="new_location" /></div>
+                <div class="form-group"><label for="name"><strong>New Location</strong></label><input class="form-control" type="text" placeholder="enter new location" name="name" /></div>
             </div>
         </div>
         <div class="row">
             <div class="col"> 
-                <label for=“location”>Choose a location:</label>
-                <select name=“location” id=“location”>
-                    <option value=“North”>North Austin</option>
-                    <option value=“Central”>Cental Austin</option>
-                    <option value=“South”>South Austin</option>
-                </select>
-                <label for=“type”>Choose an activity type:</label>
-                <select name=“type” id=“type”>
-                    <option value=“Point_of_interest”>Point of Interest</option>
-                    <option value=“Bar”>Bars</option>
-                    <option value=“Shopping”>Shopping</option>
-                    <option value=“Tourist_Attraction”>Tourist Attraction</option>
-                    <option value=“Restaurant”>Restaurant</option>
-                    <option value=“Landmark”>Landmark</option>
-                    <option value=“Establishment”>Establishment</option>
-                    <option value=“Museum”>Museum</option>
-                </select>
-                <label for=“rating”>Choose your rating:</label>
-                <select name=“rating” id=“rating”>
-                    <option value=“5”>5</option>
-                    <option value=“4”>4</option>
-                    <option value=“3”>3</option>
-                    <option value=“2”>2</option>
-                    <option value=“1”>1</option>
-                </select>
-                <label for=“Submit”>Submit:</label>
-                <input type="submit" value="Send your Wisdom">
+                <form action="{{ url_for('user_input') }}" method = “POST”>
+                    <label for=“latitude_region”>Choose a location:</label>
+                    <select name="latitude_region" id=latitude_region>
+                        <option value=“north”>North Austin</option>
+                        <option value=“central”>Cental Austin</option>
+                        <option value=“south”>South Austin</option>
+                    </select>
+                    <label for=“types1”>Choose an activity type:</label>
+                    <select name=“types1” id=types1>
+                        <option value=“point_of_interest”>Point of Interest</option>
+                        <option value=“bar”>Bars</option>
+                        <option value=“shopping”>Shopping</option>
+                        <option value=“tourist_attraction”>Tourist Attraction</option>
+                        <option value=“restaurant”>Restaurant</option>
+                        <option value=“landmark”>Landmark</option>
+                        <option value=“establishment”>Establishment</option>
+                        <option value=“museum”>Museum</option>
+                    </select>
+                    <label for=“rating”>Choose your rating:</label>
+                    <select name=“rating” id=“rating”>
+                        <option value=“5”>5</option>
+                        <option value=“4”>4</option>
+                        <option value=“3”>3</option>
+                        <option value=“2”>2</option>
+                        <option value=“1”>1</option>
+                    </select>
+                    <label for=“submit”>Submit:</label>
+                    <input type="submit" value="Send your Wisdom">
+                </form>
             </div>
         </div>
     </div>
