@@ -27,15 +27,6 @@ class AustinLocations(Base):
     latitude_region = Column(String(255))
     user_input = Column(Boolean)
 
-times = [
-    "9:00 AM",
-    "11:00 AM",
-    "1:00 PM",
-    "3:00 PM",
-    "5:00 PM",
-    "7:00 PM"
-]
-
 app = Flask(__name__)
 
 db = SQLAlchemy(app)
@@ -95,7 +86,7 @@ def filtered_data():
 def visualizations():
     return render_template("visualizations.html")
 
-@app.route("/final_schedule", methods=['GET','POST'])
+@app.route("/final_schedule")
 def final_schedule():
     # data= []
 
@@ -123,39 +114,6 @@ def final_schedule():
 
     # return jsonify(data)
     return render_template("final_schedule.html")
-
-    # results = []
-
-    # # if request.method == 'POST':
-    # latitude_region = request.form.get('latitude_region')
-    # type1 = request.form.get('types1')        
-    # rating = request.form.get('rating')
-
-    # query = session.query(AustinLocations).all()
-
-    # for record in query:
-    #     schedule_dict={
-    #         "time": "9:00 AM",
-    #         "name": "",
-    #         "location": session.query.filter(AustinLocations.latitude_region == latitude_region),
-    #         "type1": session.query.filter(AustinLocations.types1 == request.form.get('types1')),
-    #         "rating": session.query.filter(AustinLocations.rating == request.form.get('rating')),
-    #     }
-    #     results.append(schedule_dict)
-
-
-    #     # if latitude_region:
-    #     #     query = query.filter(AustinLocations.latitude_region == latitude_region)
-    #     # if type:
-    #     #     query = query.filter(AustinLocations.types1 == type)
-    #     # if rating:
-    #     #     query = query.filter(AustinLocations.rating == rating)
-        
-    # return render_template("final_schedule.html", times=times, results=results)
-    
-
-    # locations_db = session.query(AustinLocations).filter().all()
-    # return render_template("final_schedule.html", times=times)
 
 if __name__ == "__main__":
     app.run(debug=True)
