@@ -1,7 +1,7 @@
 ## Project 2
 
 #### Plan a Day in Austin
-A Full stack web application that helps create a schedule of a day in Austin based on top recommened places!
+A Full stack web application that helps create a schedule of a day in Austin based on top recommended places!
 
 Direct link to app: https://hip-cal-2.herokuapp.com/
 
