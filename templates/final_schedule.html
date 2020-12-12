@@ -44,68 +44,58 @@
     <div class="container">
         <div class="row">
             <div class="col-md-2">
-                <div class="panel-heading">Filter Search</div>
-                <div class="panel-body">
-                    <form method = 'POST' action='final_schedule'>
-                        <div class="form-group">
-                            <ul class="list-group" id="filters">
-                                <li class="filter list-group-item">
-                                    <label for="latitude_region">Select Location in Austin</label>
-                                    <select name=“latitude_region” id=“latitude_region”>
-                                        <option value=“North”>North</option>
-                                        <option value=“Central”>Cental</option>
-                                        <option value=“South”>South</option>
-                                    </select>
-                                </li>
-                                <li class="filter list-group-item">
-                                    <label for=“type1”>Choose an activity type:</label>
-                                    <select name=“type1” id=“type1”>
-                                        <option value=“point_of_interest”>Point of Interest</option>
-                                        <option value=“bar”>Bars</option>
-                                        <option value=“shopping”>Shopping</option>
-                                        <option value=“tourist_attraction”>Tourist Attraction</option>
-                                        <option value=“restaurant”>Restaurant</option>
-                                        <option value=“landmark”>Landmark</option>
-                                        <option value=“establishment”>Establishment</option>
-                                        <option value=“museum”>Museum</option>
-                                    </select>
-                                </li>
-                                <li class="filter list-group-item">
-                                    <label for=“rating”>Choose your rating:</label>
-                                    <select name=“rating” id=“rating”> 
-                                        <option value=“5”>5</option>
-                                        <option value=“4”>4</option>
-                                        <option value=“3”>3</option>
-                                        <option value=“2”>2</option>
-                                        <option value=“1”>1</option>
-                                    </select>
-                                    <button id="submit" type="button" class="btn btn-success">Filter Table</button>
-                                </li>
-                            </ul>
+                <aside class="filters">
+                    <div class="panel panel-default">
+                        <div class="panel-heading">Filter Search</div>
+                        <div class="panel-body">
+                            <form>
+                                <div class="form-group">
+                                    <ul class="list-group" id="filters">
+                                        <li class="filter list-group-item">
+                                            <label for="latitude_region">Select Location in Austin</label>
+                                            <input class="form-control" id="latitude_region" type="text" placeholder="North">
+                                        </li>
+                                        <li class="filter list-group-item">
+                                            <label for=“rating”>Choose your rating:</label>
+                                            <input for="rating" id="rating" type="text" placeholder="4.5">
+                                        </li>
+                                        <li class="filter list-group-item">
+                                            <label for=“types1”>Enter an activity type:</label>
+                                            <input class="form-control" id="types1" type="text" placeholder="restuarant">
+                                            <button id="submit" type="button" class="btn btn-success">Filter Table</button>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </form>
                         </div>
-                    </form>
-                </div>
+                    </div>
+                </aside>
             </div>
             <div class="col-md-10">
                 <div id="table-area" class="">
                     <table id="activity-table" class="table table-striped">
                         <thead>
                             <tr>
-                                <th class="table-head">Time</th>
+                                <th class="table-head">Id</th>
+                                <th class="table-head">Latitude</th>
+                                <th class="table-head">Region</th>
+                                <th class="table-head">Longitude</th>
                                 <th class="table-head">Name</th>
-                                <th class="table-head">Location</th>
-                                <th class="table-head">Type</th>
                                 <th class="table-head">Rating</th>
+                                <th class="table-head">Type 1</th>
+                                <th class="table-head">Type 2</th>
+                                <th class="table-head">Type 3</th>
+                                <th class="table-head">Type 4</th>
+                                <th class="table-head">Type 5</th>
+                                <th class="table-head">Type 6</th>
+                                <th class="table-head">Type 7</th>
+                                <th class="table-head">User Input</th>
+                                <th class="table-head">User Ratings</th>
                             </tr>
                         </thead>
-                        <tbody>
-                            {% for time in times %}
-                            <tr>
-                                <td>{{ time }}</td>
-                                <td>{{ results }}</td>
-                            </tr>
-                            {% endfor %}
-                        </tbody>
+
+                        <tbody></tbody>
+
                     </table>
                 </div>
             </div>
@@ -116,13 +106,16 @@
         <div class="footer">Copyright &copy; Akik | Caroline | Ed | Natalia | Zach  2020</div>
     </footer>
 
-  <!-- Bootstrap JS -->
-  <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"
-    crossorigin="anonymous"></script>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q"
-    crossorigin="anonymous"></script>
-  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl"
-    crossorigin="anonymous"></script>
-      
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"
+        crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q"
+        crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl"
+        crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/4.11.0/d3.js"></script>
+    <script src="../data.js"></script>
+    <script src="../app.js"></script>
+    
+    
 </body>
-</html>s
+</html>

@@ -97,7 +97,33 @@ def visualizations():
 
 @app.route("/final_schedule", methods=['GET','POST'])
 def final_schedule():
-    return "hi"
+    # data= []
+
+    # query=session.query(AustinLocations).filter()
+
+    # for record in query:
+    #     dict={
+    #         "id": record.id,
+    #         "name ": record.name,
+    #         "rating": record.rating,
+    #         "user_ratings_total": record.user_ratings_total,
+    #         "latitude": record.latitude,
+    #         "longitude": record.longitude,
+    #         "types1" : record.types1,
+    #         "types2": record.types2,
+    #         "types3": record.types3,
+    #         "types4": record.types4,
+    #         "types5": record.types5,
+    #         "types6": record.types6,
+    #         "types7": record.types7,
+    #         "latitude_region": record.latitude_region,
+    #         "user_input": record.user_input,
+    #     }
+    #     data.append(dict)
+
+    # return jsonify(data)
+    return render_template("final_schedule.html")
+
     # results = []
 
     # # if request.method == 'POST':
