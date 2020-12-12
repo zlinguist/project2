@@ -1,0 +1,464 @@
+"id","name","rating","user_ratings_total","latitude","longitude","types1","types2","types3","types4","types5","types6","types7","latitude_region","user_input"
+706,"Mikado Ryotei",4.5,369,30.37344,-97.72468599999999,"bar"," restaurant"," food"," point_of_interest"," establishment","","","North",False
+707,"To. Austin Archive",0,0,30.3269914,-97.6764309,"shopping_mall"," point_of_interest"," establishment","","","","","North",False
+708,"Earl J. Pomerleau Pocket Park",4.3,6,30.3184832,-97.68679089999999,"park"," point_of_interest"," establishment","","","","","North",False
+711,"Jim Ernst Interest",0,0,30.401356,-97.7525352,"point_of_interest"," establishment","","","","","","North",False
+716,"La Placita",4.4,241,30.1945888,-97.7451895,"restaurant"," food"," point_of_interest"," establishment","","","","Central",False
+717,"Dittmar District Park",4.4,297,30.1825707,-97.7997206,"park"," tourist_attraction"," point_of_interest"," establishment","","","","Central",False
+719,"Rosa's Café & Tortilla Factory",4.2,1305,30.1713294,-97.79909769999999,"restaurant"," meal_takeaway"," food"," point_of_interest"," establishment","","","Central",False
+720,"Sullivan Park",4.4,8,30.1397276,-97.79038589999999,"park"," point_of_interest"," establishment","","","","","South",False
+721,"Historical Marker",3.7,3,30.176056,-97.70862480000001,"park"," point_of_interest"," establishment","","","","","Central",False
+722,"Alicia’s Tacoriendo",4.9,21,30.170679,-97.68984979999999,"restaurant"," food"," point_of_interest"," establishment","","","","Central",False
+723,"Pastor Edward Clarence Craig, Jr. Neighborhood Park",4.4,139,30.1989,-97.739792,"park"," tourist_attraction"," point_of_interest"," establishment","","","","Central",False
+728,"Brooklyn breakfast shop",5,35,30.1852909,-97.7920979,"restaurant"," food"," point_of_interest"," establishment","","","","Central",False
+729,"AUSDTX",0,0,30.19730119999999,-97.8044192,"point_of_interest"," establishment","","","","","","Central",False
+730,"Tom-Cruz Studios",0,0,30.1905608,-97.78987149999999,"museum"," point_of_interest"," establishment","","","","","Central",False
+731,"Kendra Page Neighborhood Park",3.9,57,30.18003479999999,-97.7641629,"park"," tourist_attraction"," point_of_interest"," establishment","","","","Central",False
+769,"Quest4ahome",0,0,30.1740879,-97.7786271,"point_of_interest"," establishment","","","","","","Central",False
+772,"Grand Meadow Neighborhood Park",3.8,55,30.156798,-97.74274349999999,"park"," tourist_attraction"," point_of_interest"," establishment","","","","Central",False
+773,"Papa John's Pizza",3.6,135,30.1573674,-97.7446082,"restaurant"," food"," point_of_interest"," establishment","","","","Central",False
+774,"MI Homes Model Home",2,1,30.1546981,-97.75446939999999,"point_of_interest"," establishment","","","","","","Central",False
+775,"South Boggy Creek Greenbelt",3.8,9,30.18055279999999,-97.78049829999999,"cemetery"," tourist_attraction"," park"," point_of_interest"," establishment","","","Central",False
+776,"Century South",4,1072,30.1898169,-97.7742949,"shopping_mall"," point_of_interest"," establishment","","","","","Central",False
+779,"Boggy Creek Masonic Cemetery",4.5,12,30.1824482,-97.7807023,"point_of_interest"," establishment","","","","","","Central",False
+781,"Auto Relief Tires",5,15,30.1872771,-97.60660349999999,"car_repair"," point_of_interest"," store"," establishment","","","","Central",False
+782,"Barkley Meadows Park",0,0,30.1874628,-97.624219,"park"," point_of_interest"," establishment","","","","","Central",False
+783,"Sonic Drive-In",3.3,439,30.1799662,-97.6144239,"restaurant"," food"," point_of_interest"," store"," establishment","","","Central",False
+0,"Graffiti Park at Castle Hill",4.4,3677,30.276165,-97.753309,"tourist_attraction"," point_of_interest"," establishment","","","","","North",False
+1,"Tailgait Corner # 4",0,0,30.277875,-97.74102800000001,"shopping_mall"," point_of_interest"," establishment","","","","","North",False
+3,"The Carillon",4.4,107,30.2815251,-97.7401848,"bar"," restaurant"," food"," point_of_interest"," establishment","","","North",False
+601,"Battle Bend Neighborhood Park",4.1,144,30.2139839,-97.76805,"park"," tourist_attraction"," point_of_interest"," establishment","","","","North",False
+4,"Landmark Sq Condominiums",0,0,30.28546369999999,-97.74573079999999,"point_of_interest"," establishment","","","","","","North",False
+6,"Springdale Shopping Center",3.9,1642,30.3128214,-97.6639589,"shopping_mall"," point_of_interest"," establishment","","","","","North",False
+7,"Dottie Jordan Neighborhood Park",4.4,244,30.3141513,-97.67397179999999,"park"," tourist_attraction"," point_of_interest"," establishment","","","","North",False
+8,"The Silver Medal",4.8,38,30.3227812,-97.6825918,"restaurant"," bar"," food"," point_of_interest"," establishment","","","North",False
+10,"Allen Park",4.5,66,30.344571,-97.7546984,"park"," tourist_attraction"," point_of_interest"," establishment","","","","North",False
+11,"Far West Retail Center",4.4,9,30.3550303,-97.75553819999999,"shopping_mall"," point_of_interest"," establishment","","","","","North",False
+13,"Tee's Donut's",5,10,30.3561934,-97.7579535,"restaurant"," food"," point_of_interest"," establishment","","","","North",False
+14,"Shady Oaks",0,0,30.25858029999999,-97.88875519999999,"health"," point_of_interest"," establishment","","","","","North",False
+25,"Saint Mary Mural",0,0,30.3158809,-97.68587579999999,"museum"," point_of_interest"," establishment","","","","","North",False
+26,"Little Deli & Pizzeria",4.8,125,30.31423,-97.69002049999999,"restaurant"," food"," point_of_interest"," store"," establishment","","","North",False
+29,"Goat Cave Karst Nature Preserve",3.9,74,30.1985326,-97.8471649,"tourist_attraction"," park"," point_of_interest"," establishment","","","","Central",False
+30,"Heart Of Texas Shopping Center",4.5,68,30.2002793,-97.8382127,"shopping_mall"," point_of_interest"," establishment","","","","","North",False
+31,"Western Oaks Trail",4.3,3,30.2070801,-97.85927869999999,"tourist_attraction"," point_of_interest"," establishment","","","","","North",False
+32,"Alma's Tacos",4.7,71,30.20084959999999,-97.8380238,"restaurant"," food"," point_of_interest"," establishment","","","","North",False
+33,"Counselor Drive Vineyard",4,3,30.2008498,-97.84329819999999,"bar"," point_of_interest"," establishment","","","","","North",False
+365,"Moonlight Tower - Zilker Park",4.7,15,30.2663833,-97.7711897,"point_of_interest"," establishment","","","","","","North",False
+473,"Sear",0,0,30.267153,-97.7430608,"shopping_mall"," point_of_interest"," establishment","","","","","North",False
+19,"Mueller Regional Retail Center",4.5,60,30.3057763,-97.7097641,"shopping_mall"," point_of_interest"," establishment","","","","","North",False
+20,"Mueller Lake Park",4.7,3571,30.2967706,-97.70585229999999,"park"," tourist_attraction"," point_of_interest"," establishment","","","","North",False
+21,"L'Oca d'Oro",4.5,352,30.2972489,-97.70467219999999,"bar"," restaurant"," food"," point_of_interest"," store"," establishment","","North",False
+22,"Josiah Pugh Wilbarger Historical Marker",0,0,30.3039013,-97.69866669999999,"point_of_interest"," establishment","","","","","","North",False
+23,"Thinkery",4.7,3535,30.297417,-97.704971,"tourist_attraction"," museum"," point_of_interest"," establishment","","","","North",False
+24,"Windsor Village Shopping Center",4,448,30.3122261,-97.6919897,"shopping_mall"," point_of_interest"," establishment","","","","","North",False
+34,"Industrial Park",5,3,30.34224,-97.67120229999999,"park"," point_of_interest"," establishment","","","","","North",False
+86,"Delwood Shopping Center",4.1,301,30.2955902,-97.7178907,"shopping_mall"," point_of_interest"," establishment","","","","","North",False
+87,"Elisabet Ney Museum",4.7,247,30.3066213,-97.7262544,"museum"," tourist_attraction"," point_of_interest"," establishment","","","","North",False
+88,"Camila's Tacos",5,16,30.293853,-97.71619299999999,"restaurant"," food"," point_of_interest"," establishment","","","","North",False
+90,"Wall of Welcome",4.3,4,30.342688,-97.7252901,"tourist_attraction"," point_of_interest"," establishment","","","","","North",False
+91,"Allandale Village Shopping Center",4.3,874,30.3338997,-97.7407896,"shopping_mall"," point_of_interest"," establishment","","","","","North",False
+93,"Paprika ATX",5,22,30.3333202,-97.7213019,"restaurant"," food"," point_of_interest"," establishment","","","","North",False
+95,"Austin Museum of Popular Culture",4.5,150,30.3326086,-97.7235115,"art_gallery"," tourist_attraction"," museum"," point_of_interest"," establishment","","","North",False
+96,"Gatling Gun Park",4.5,31,30.1620624,-97.8518826,"park"," tourist_attraction"," point_of_interest"," establishment","","","","Central",False
+97,"Something Borrowed, Inc.",5,1,30.1441588,-97.83661959999999,"point_of_interest"," clothing_store"," store"," establishment","","","","South",False
+100,"The Combs Cantu Group",0,0,30.151186,-97.84050400000001,"point_of_interest"," establishment","","","","","","Central",False
+101,"Boggy Creek Greenbelt",4.5,105,30.26979,-97.71247900000002,"park"," tourist_attraction"," point_of_interest"," establishment","","","","North",False
+102,"Eastland Plaza",4,762,30.2717404,-97.6978128,"shopping_mall"," point_of_interest"," establishment","","","","","North",False
+103,"Museum of Natural & Artificial Ephemerata",4.5,21,30.2801841,-97.7153621,"museum"," tourist_attraction"," point_of_interest"," establishment","","","","North",False
+104,"El Coqui",4.8,238,30.2808832,-97.71309409999999,"restaurant"," food"," point_of_interest"," establishment","","","","North",False
+105,"Govalle Pecan Grove",5,2,30.268684,-97.700581,"point_of_interest"," establishment","","","","","","North",False
+107,"Brownie Neighborhood Park",3.5,51,30.3639543,-97.6867951,"park"," tourist_attraction"," point_of_interest"," establishment","","","","North",False
+108,"North Park Shopping Center",4.1,727,30.36685049999999,-97.6959447,"shopping_mall"," point_of_interest"," establishment","","","","","North",False
+110,"Sabor Cubano El Habanero",5,14,30.3736993,-97.6881959,"restaurant"," food"," point_of_interest"," establishment","","","","North",False
+111,"Peluquería Eduardo",5,1,30.2267107,-97.70253849999999,"shopping_mall"," point_of_interest"," establishment","","","","","North",False
+112,"Montopolis Practice Fields",3.8,4,30.2321683,-97.691369,"park"," point_of_interest"," establishment","","","","","North",False
+113,"The Bistro",4,31,30.21784,-97.6875294,"bar"," restaurant"," food"," point_of_interest"," establishment","","","North",False
+114,"White Light Studios",4.8,9,30.233687,-97.69432800000001,"museum"," point_of_interest"," establishment","","","","","North",False
+130,"Eddie V's Prime Seafood",4.7,926,30.3896014,-97.7530121,"night_club"," meal_takeaway"," bar"," restaurant"," food"," point_of_interest"," establishment","North",False
+131,"Forum",4.1,26,30.2806198,-97.8072167,"shopping_mall"," point_of_interest"," establishment","","","","","North",False
+132,"Jason's Deli",4.4,235,30.2752791,-97.8005115,"restaurant"," food"," point_of_interest"," establishment","","","","North",False
+83,"Mayfield Park and Nature Preserve",4.7,1504,30.3129736,-97.77162000000001,"tourist_attraction"," park"," point_of_interest"," establishment","","","","North",False
+84,"The Beer Plant",4.6,1013,30.2966112,-97.7677564,"bar"," restaurant"," food"," point_of_interest"," establishment","","","North",False
+85,"Texas Military Forces Museum",4.8,876,30.313869,-97.7613441,"museum"," tourist_attraction"," point_of_interest"," establishment","","","","North",False
+115,"Corners II Shopping Center",4.3,3,30.241999,-97.7815734,"shopping_mall"," point_of_interest"," establishment","","","","","North",False
+121,"Shops at Steiner Ranch",4.2,25,30.36944,-97.8928741,"shopping_mall"," point_of_interest"," establishment","","","","","North",False
+123,"Lakeside Pizza & Grill",4.2,310,30.3702073,-97.89304539999999,"restaurant"," food"," point_of_interest"," establishment","","","","North",False
+124,"Highland Village",4.4,292,30.3367295,-97.7170506,"shopping_mall"," point_of_interest"," establishment","","","","","North",False
+125,"Highland Neighborhood Park",4.2,106,30.3361716,-97.71357809999999,"park"," tourist_attraction"," point_of_interest"," establishment","","","","North",False
+126,"Chago's",4.6,853,30.3403151,-97.71701979999999,"restaurant"," food"," point_of_interest"," establishment","","","","North",False
+127,"Steck Valley Greenbelt",4.1,47,30.3824844,-97.7583875,"park"," tourist_attraction"," point_of_interest"," establishment","","","","North",False
+128,"The Arboretum",4.4,2561,30.3922683,-97.74820109999999,"shopping_mall"," point_of_interest"," establishment","","","","","North",False
+701,"Fish Pond Pavilion",4.5,6,30.3593753,-97.7341903,"park"," point_of_interest"," establishment","","","","","North",False
+151,"Austin Aquarium",4.3,5503,30.4499019,-97.792278,"aquarium"," tourist_attraction"," museum"," point_of_interest"," establishment","","","North",False
+152,"Reale's Italian Cafe",4.5,781,30.4463084,-97.7911408,"bar"," restaurant"," food"," point_of_interest"," establishment","","","North",False
+153,"Heritage Neighborhood",2.5,2,30.3006209,-97.74303789999999,"tourist_attraction"," point_of_interest"," establishment","","","","","North",False
+154,"Saltac",0,0,30.30201709999999,-97.7404183,"shopping_mall"," point_of_interest"," establishment","","","","","North",False
+155,"Texas Memorial Museum",4.5,304,30.286992,-97.73235199999999,"museum"," tourist_attraction"," point_of_interest"," establishment","","","","North",False
+156,"Island Thyme Grill",5,21,30.2957585,-97.74213710000001,"restaurant"," food"," point_of_interest"," establishment","","","","North",False
+62,"The Boardwalk at Lady Bird Lake",4.8,415,30.2455552,-97.72371079999999,"tourist_attraction"," point_of_interest"," establishment","","","","","North",False
+63,"JNL Barbecue",5,38,30.2416861,-97.72683970000001,"restaurant"," food"," point_of_interest"," establishment","","","","North",False
+64,"Tom Lasseter South Lamar Neighborhood Park",4.3,79,30.241326,-97.77904199999999,"park"," tourist_attraction"," point_of_interest"," establishment","","","","North",False
+65,"Corners Shopping Center",4.1,462,30.2415147,-97.78363139999999,"shopping_mall"," point_of_interest"," establishment","","","","","North",False
+66,"Joslin Neighborhood Park",4.5,105,30.2286572,-97.7919781,"tourist_attraction"," park"," point_of_interest"," establishment","","","","North",False
+394,"Sunset Valley Nature Area",4.8,6,30.2210265,-97.8189558,"park"," point_of_interest"," establishment","","","","","North",False
+67,"512 Crunch Bar",5,12,30.2393231,-97.7912552,"bakery"," restaurant"," food"," point_of_interest"," store"," establishment","","North",False
+68,"Spring",0,0,30.2419781,-97.7900365,"point_of_interest"," establishment","","","","","","North",False
+161,"500 North Lamar",4.1,17,30.270733,-97.7549208,"shopping_mall"," point_of_interest"," establishment","","","","","North",False
+163,"Always Hungry",5,26,30.2700323,-97.75043420000002,"restaurant"," food"," point_of_interest"," establishment","","","","North",False
+164,"Moonlight Tower",4,1,30.2777212,-97.75417569999999,"point_of_interest"," establishment","","","","","","North",False
+165,"Umlauf Sculpture Garden & Museum",4.5,717,30.2632583,-97.76615559999999,"museum"," tourist_attraction"," point_of_interest"," establishment","","","","North",False
+166,"Windmill Run Park",4.7,139,30.2373311,-97.8915186,"park"," tourist_attraction"," point_of_interest"," establishment","","","","North",False
+167,"Barton Creek Habitat Preserve",2,1,30.2479963,-97.8904309,"park"," point_of_interest"," establishment","","","","","North",False
+246,"D.S. Tech",0,0,30.3497924,-97.86574039999999,"point_of_interest"," establishment","","","","","","North",False
+250,"Citizen Eatery",4.5,984,30.3216868,-97.73903920000001,"restaurant"," bar"," food"," point_of_interest"," establishment","","","North",False
+251,"Landmark Surveying LP",5,1,30.3222137,-97.75571660000001,"point_of_interest"," establishment","","","","","","North",False
+252,"Moore-Hancock Farmstead",5,1,30.3208956,-97.7414369,"museum"," point_of_interest"," establishment","","","","","North",False
+253,"Scofield Farms Neighborhood Park",4.1,63,30.4176597,-97.6806551,"park"," tourist_attraction"," point_of_interest"," establishment","","","","North",False
+254,"Tech.ridge Plaza Bldg 12",4.6,7,30.4121281,-97.6758904,"shopping_mall"," point_of_interest"," establishment","","","","","North",False
+256,"Taco Miendo",4.9,43,30.415158,-97.6959557,"restaurant"," food"," point_of_interest"," establishment","","","","North",False
+257,"Voyage to Soulsville",0,0,30.2693536,-97.72408709999999,"tourist_attraction"," point_of_interest"," establishment","","","","","North",False
+258,"take heart",4.8,55,30.2681888,-97.7268333,"home_goods_store"," point_of_interest"," clothing_store"," store"," establishment","","","North",False
+259,"Haunted ATX",4.8,60,30.2649689,-97.7341319,"tourist_attraction"," travel_agency"," point_of_interest"," establishment","","","","North",False
+261,"Landmark Surveying",3.7,9,30.2589364,-97.7186548,"point_of_interest"," establishment","","","","","","North",False
+262,"George Washington Carver Museum",4.6,301,30.270035,-97.72400780000001,"museum"," tourist_attraction"," point_of_interest"," establishment","","","","North",False
+266,"Papalote Taco House",4.6,935,30.2435217,-97.78189719999999,"restaurant"," food"," point_of_interest"," establishment","","","","North",False
+269,"Anemometer Point",5,1,30.4017735,-97.72628809999999,"tourist_attraction"," point_of_interest"," establishment","","","","","North",False
+270,"Balcones Woods",4.1,333,30.4080538,-97.7465132,"shopping_mall"," point_of_interest"," establishment","","","","","North",False
+305,"Saint Merryn Greenbelt",4.3,3,30.3470799,-97.6100458,"park"," point_of_interest"," establishment","","","","","North",False
+306,"Lizs Grill",4.3,93,30.3428548,-97.6127681,"restaurant"," meal_takeaway"," food"," point_of_interest"," establishment","","","North",False
+413,"Wings To Go",5,29,30.3621522,-97.69862380000001,"restaurant"," food"," point_of_interest"," establishment","","","","North",False
+420,"Colony Park District Park",4.1,134,30.2993006,-97.63752780000002,"park"," tourist_attraction"," point_of_interest"," establishment","","","","North",False
+422,"Tacos",4.4,45,30.30790709999999,-97.6428124,"restaurant"," food"," point_of_interest"," establishment","","","","North",False
+429,"Northwest Balcones Park",4.7,79,30.4263309,-97.80185499999999,"park"," tourist_attraction"," point_of_interest"," establishment","","","","North",False
+430,"Canyon Vista Pool",3.7,3,30.4279872,-97.7853525,"park"," point_of_interest"," establishment","","","","","North",False
+433,"The Domain",4.5,9912,30.4006016,-97.7251211,"shopping_mall"," point_of_interest"," establishment","","","","","North",False
+436,"Friendship Statue",5,1,30.4039724,-97.72350899999999,"point_of_interest"," establishment","","","","","","North",False
+437,"Salón de Belleza Constellacion",4.8,4,30.2803729,-97.6458885,"shopping_mall"," point_of_interest"," establishment","","","","","North",False
+438,"MLK Crossing - Walnut Creek Trail",5,3,30.2834168,-97.6549708,"park"," point_of_interest"," establishment","","","","","North",False
+439,"Taqueria Michoacan",4.8,13,30.2803729,-97.6458885,"restaurant"," food"," point_of_interest"," establishment","","","","North",False
+442,"La Flor",4.8,97,30.2144242,-97.77660949999999,"meal_takeaway"," restaurant"," food"," point_of_interest"," establishment","","","North",False
+444,"Walnut Creek Greenbelt",4.5,234,30.3829534,-97.66438559999999,"park"," tourist_attraction"," point_of_interest"," establishment","","","","North",False
+445,"Dessau Retail Center",0,0,30.37860929999999,-97.65763799999999,"shopping_mall"," point_of_interest"," establishment","","","","","North",False
+447,"Taqueria Montenegro",4.6,219,30.3776202,-97.6770773,"restaurant"," food"," point_of_interest"," establishment","","","","North",False
+449,"Silver Creek",0,0,30.4335981,-97.71610919999999,"museum"," point_of_interest"," establishment","","","","","North",False
+451,"Erin’s Home",3,1,30.431368,-97.71928199999999,"point_of_interest"," establishment","","","","","","North",False
+454,"CrossPointe Church",4.1,14,30.44587229999999,-97.7326326,"church"," place_of_worship"," point_of_interest"," establishment","","","","North",False
+455,"Sophie's Restaurant Bar & Grill",4,45,30.4415837,-97.7454635,"restaurant"," food"," point_of_interest"," establishment","","","","North",False
+456,"Big Walnut Creek Nature Preserve",4,40,30.3261124,-97.6512985,"tourist_attraction"," park"," point_of_interest"," establishment","","","","North",False
+461,"Town Lake",4.7,90,30.2505411,-97.73743309999999,"tourist_attraction"," park"," point_of_interest"," establishment","","","","North",False
+462,"Coco Coquette",4.8,64,30.2558333,-97.7216667,"hair_care"," jewelry_store"," point_of_interest"," store"," establishment","","","North",False
+464,"Bufalina Pizza",4.6,715,30.258394,-97.728867,"bar"," restaurant"," food"," point_of_interest"," establishment","","","North",False
+468,"Lookout Point",4,1,30.3128253,-97.7717796,"park"," point_of_interest"," establishment","","","","","North",False
+470,"Splitrock",0,0,30.2988664,-97.75051909999999,"point_of_interest"," establishment","","","","","","North",False
+310,"Kyote Junction",4.9,11,30.2591848,-97.7115457,"restaurant"," food"," point_of_interest"," establishment","","","","North",False
+478,"Bolm District Park",3.8,17,30.2555599,-97.6744453,"park"," tourist_attraction"," point_of_interest"," establishment","","","","North",False
+563,"Museum of the Weird",4.2,1952,30.2671667,-97.7386667,"museum"," tourist_attraction"," point_of_interest"," establishment","","","","North",False
+569,"Dunaway Associates",0,0,30.2437374,-97.8457504,"point_of_interest"," establishment","","","","","","North",False
+669,"2300 South Lamar",0,0,30.2476181,-97.7743495,"shopping_mall"," point_of_interest"," establishment","","","","","North",False
+9,"National Fortnite History Center",0,0,30.3174334,-97.6605113,"museum"," point_of_interest"," establishment","","","","","North",False
+118,"Blaze Foley House",0,0,30.2473558,-97.7584021,"point_of_interest"," establishment","","","","","","North",False
+168,"Shore Raw Bar & Grill",4.4,335,30.2497656,-97.89504149999999,"restaurant"," food"," point_of_interest"," establishment","","","","North",False
+169,"The Swiss Consulate Austin",5,1,30.2438662,-97.89888649999999,"point_of_interest"," establishment","","","","","","North",False
+171,"Avenda",0,0,30.32272589999999,-97.70933989999999,"shopping_mall"," point_of_interest"," establishment","","","","","North",False
+173,"Epic Poke",4.9,281,30.3221913,-97.69579429999999,"meal_takeaway"," restaurant"," food"," point_of_interest"," establishment","","","North",False
+174,"Playground",4.3,3,30.4288196,-97.6620071,"park"," point_of_interest"," establishment","","","","","North",False
+116,"Gillis Neighborhood Park",4,232,30.2406795,-97.7594275,"park"," tourist_attraction"," point_of_interest"," establishment","","","","North",False
+177,"Hatley Fields",4.5,13,30.2750775,-97.7877421,"park"," point_of_interest"," establishment","","","","","North",False
+431,"BSHQ",0,0,30.4270788,-97.79710879999999,"point_of_interest"," establishment","","","","","","North",False
+453,"McNeil Crossing",4.3,116,30.4422455,-97.7448723,"shopping_mall"," point_of_interest"," establishment","","","","","North",False
+69,"Southside Showcase",0,0,30.2317029,-97.7885295,"museum"," point_of_interest"," establishment","","","","","North",False
+70,"Upper Bull Creek",4.3,16,30.4036371,-97.7856618,"park"," tourist_attraction"," point_of_interest"," establishment","","","","North",False
+72,"The Hump",4.2,5,30.4031243,-97.76699839999999,"bar"," point_of_interest"," establishment","","","","","North",False
+73,"Balcones District Park",4.5,488,30.412894,-97.7202745,"park"," tourist_attraction"," point_of_interest"," establishment","","","","North",False
+74,"Yett Creek Neighborhood Park",4.4,84,30.4288519,-97.7346461,"park"," tourist_attraction"," point_of_interest"," establishment","","","","North",False
+339,"Alli Mexican cuisine",4.5,148,30.3600468,-97.7041577,"restaurant"," food"," point_of_interest"," establishment","","","","North",False
+35,"El Sabor Mexicano",4.7,9,30.3512026,-97.67316919999999,"restaurant"," food"," point_of_interest"," establishment","","","","North",False
+36,"Slaughter Creek At Twin Oaks Greenbelt",4.5,11,30.1564365,-97.79783599999999,"park"," tourist_attraction"," point_of_interest"," establishment","","","","Central",False
+37,"The Shops At Onion Creek",4.3,6,30.1375158,-97.79628869999999,"shopping_mall"," point_of_interest"," establishment","","","","","South",False
+39,"Opera Café & Coffeehouse",4.5,186,30.1372164,-97.79578959999999,"meal_takeaway"," cafe"," restaurant"," food"," point_of_interest"," store"," establishment","South",False
+40,"Matthew Brown Homestead",0,0,30.1541753,-97.7963728,"museum"," point_of_interest"," establishment","","","","","Central",False
+41,"North Star Greenbelt",4.5,113,30.3940618,-97.69737889999999,"park"," tourist_attraction"," point_of_interest"," establishment","","","","North",False
+42,"Midtown Center",4.2,47,30.382025,-97.6852988,"shopping_mall"," point_of_interest"," establishment","","","","","North",False
+43,"Walnut Creek Metropolitan Park",4.7,2327,30.4008039,-97.686422,"tourist_attraction"," park"," point_of_interest"," establishment","","","","North",False
+44,"Santorini Cafe",4.8,1328,30.3877289,-97.6841055,"cafe"," restaurant"," food"," point_of_interest"," establishment","","","North",False
+45,"Barton Creek Wilderness Park",4.7,159,30.2585921,-97.8241657,"tourist_attraction"," park"," point_of_interest"," establishment","","","","North",False
+46,"Sculpture Falls",4.8,408,30.26185019999999,-97.8235253,"tourist_attraction"," natural_feature"," point_of_interest"," establishment","","","","North",False
+133,"Crestmont Park",4.2,6,30.32254,-97.7427737,"park"," tourist_attraction"," point_of_interest"," establishment","","","","North",False
+134,"Rosedale Village Shopping Center",4.3,20,30.3190388,-97.7395272,"shopping_mall"," point_of_interest"," establishment","","","","","North",False
+136,"Gyro Center",5,32,30.3150178,-97.7414214,"restaurant"," food"," point_of_interest"," establishment","","","","North",False
+137,"Seiders Oaks",5,1,30.3059697,-97.747716,"tourist_attraction"," point_of_interest"," establishment","","","","","North",False
+139,"Remembrance Tower",1,4,30.33812279999999,-97.6927519,"park"," point_of_interest"," establishment","","","","","North",False
+140,"Carwash",3.2,5,30.3509734,-97.6768366,"shopping_mall"," car_wash"," point_of_interest"," establishment","","","","North",False
+142,"Ken's Tacos",4.6,1420,30.3516642,-97.67594919999999,"restaurant"," food"," point_of_interest"," establishment","","","","North",False
+143,"Wonderspaces Austin",4.3,200,30.34349719999999,-97.6851782,"museum"," point_of_interest"," establishment","","","","","North",False
+145,"Shady Hollow Village",4.4,92,30.1848241,-97.84790199999999,"shopping_mall"," point_of_interest"," establishment","","","","","Central",False
+146,"William H. Russell Karst Preserve",4.2,26,30.1932339,-97.850287,"tourist_attraction"," park"," point_of_interest"," establishment","","","","Central",False
+147,"Maudie's Hacienda",4.3,1200,30.1832091,-97.8476835,"restaurant"," food"," point_of_interest"," establishment","","","","Central",False
+148,"Castle Lemongrab",0,0,30.1989084,-97.8517339,"point_of_interest"," establishment","","","","","","Central",False
+54,"Taco bella’s food trailer",5,31,30.1795088,-97.84055,"restaurant"," food"," point_of_interest"," establishment","","","","Central",False
+55,"Landmark at Prescott Woods Apartment Homes",3.8,88,30.1813081,-97.83962129999999,"real_estate_agency"," point_of_interest"," establishment","","","","","Central",False
+159,"The Black Forest",4.6,30,30.2212553,-97.6613902,"restaurant"," food"," point_of_interest"," establishment","","","","North",False
+179,"Crows Nest",0,0,30.2601236,-97.791388,"point_of_interest"," establishment","","","","","","North",False
+183,"El Perrito ATX",4.9,14,30.2794521,-97.681569,"restaurant"," food"," point_of_interest"," establishment","","","","North",False
+185,"Tanglewood Village Shopping Center",4.2,1290,30.1748008,-97.8258045,"shopping_mall"," point_of_interest"," establishment","","","","","Central",False
+186,"Howellwood Park",5,1,30.1760984,-97.8327542,"park"," point_of_interest"," establishment","","","","","Central",False
+187,"China Dynasty",4.2,307,30.1748006,-97.8270063,"meal_delivery"," meal_takeaway"," restaurant"," food"," point_of_interest"," establishment","","Central",False
+191,"Cafe Java",4.7,2176,30.400059,-97.70419749999999,"restaurant"," cafe"," food"," point_of_interest"," store"," establishment","","North",False
+192,"Oertli Neighborhood Park",2,2,30.3960783,-97.6509116,"park"," tourist_attraction"," point_of_interest"," establishment","","","","North",False
+193,"The Shipping Spot",0,0,30.3891135,-97.65068,"shopping_mall"," point_of_interest"," establishment","","","","","North",False
+195,"Tortilleria Rio Grande",4.1,407,30.3767891,-97.67331569999999,"restaurant"," food"," point_of_interest"," establishment","","","","North",False
+196,"Oertli Dairy Historical Marker",0,0,30.3946578,-97.6507405,"point_of_interest"," establishment","","","","","","North",False
+197,"Stillhouse Hollow Nature Preserve",4.4,57,30.3691072,-97.7620906,"tourist_attraction"," park"," point_of_interest"," establishment","","","","North",False
+200,"Jan Chi Korean Cuisine & BBQ",4.9,72,30.3650066,-97.7490124,"restaurant"," food"," point_of_interest"," establishment","","","","North",False
+732,"South Brook Town Center",4.1,772,30.1904049,-97.76789400000001,"shopping_mall"," point_of_interest"," establishment","","","","","Central",False
+734,"East Buffet",4.1,1605,30.1902129,-97.7679715,"restaurant"," food"," point_of_interest"," establishment","","","","Central",False
+736,"Upper McKinney Falls",4.6,143,30.18454079999999,-97.7256826,"tourist_attraction"," point_of_interest"," establishment","","","","","Central",False
+737,"Resource center",0,0,30.20306219999999,-97.7143232,"shopping_mall"," point_of_interest"," establishment","","","","","North",False
+739,"Subway",4.1,239,30.2048458,-97.7164844,"meal_takeaway"," restaurant"," food"," point_of_interest"," establishment","","","North",False
+740,"El Camino Real",4.6,14,30.1880417,-97.7209556,"point_of_interest"," establishment","","","","","","Central",False
+743,"Sneed House",3.6,10,30.1922121,-97.76479119999999,"tourist_attraction"," point_of_interest"," establishment","","","","","Central",False
+746,"1st creek crossing",5,1,30.4104157,-97.75658340000001,"park"," point_of_interest"," establishment","","","","","North",False
+751,"Jose M. Blanco Fine Art",0,0,30.4145629,-97.75501829999999,"museum"," point_of_interest"," establishment","","","","","North",False
+752,"Kristull Ranch",4.8,20,30.161323,-97.763899,"tourist_attraction"," point_of_interest"," establishment","","","","","Central",False
+175,"Ka-Prow Thai and Sushi Bistro",4.5,668,30.4246888,-97.66994629999999,"restaurant"," food"," point_of_interest"," establishment","","","","North",False
+176,"Shops at Mira Vista",4.4,300,30.270657,-97.7878149,"shopping_mall"," grocery_or_supermarket"," restaurant"," food"," point_of_interest"," store"," establishment","North",False
+178,"CAVA",4.5,270,30.2730557,-97.7992288,"restaurant"," food"," point_of_interest"," establishment","","","","North",False
+180,"Portofino Springs",4.5,2,30.280646,-97.69154999999999,"tourist_attraction"," point_of_interest"," establishment","","","","","North",False
+230,"Airport Xpress Market",4.4,55,30.2102543,-97.651808,"supermarket"," gas_station"," grocery_or_supermarket"," liquor_store"," restaurant"," food"," point_of_interest","North",False
+233,"Olympic Heights Community Park",4.1,23,30.150762,-97.8414689,"park"," point_of_interest"," establishment","","","","","Central",False
+15,"Landmark Conservancy",3.5,41,30.2596061,-97.90224979999999,"point_of_interest"," establishment","","","","","","North",False
+16,"Louis René Barrera Indiangrass Wildlife Sanctuary",4.8,8,30.3163236,-97.5928249,"park"," tourist_attraction"," point_of_interest"," establishment","","","","North",False
+18,"giant spider sculpture",4.7,60,30.2893729,-97.6992716,"tourist_attraction"," point_of_interest"," establishment","","","","","North",False
+481,"Taqueria La Libertad",4.9,16,30.266159,-97.6954154,"restaurant"," food"," point_of_interest"," establishment","","","","North",False
+482,"Sekrit Theater",4.7,105,30.259358,-97.683807,"movie_theater"," point_of_interest"," establishment","","","","","North",False
+483,"Sweeten My Day Mural",1,1,30.2521738,-97.6982736,"museum"," point_of_interest"," establishment","","","","","North",False
+485,"kingstones",0,0,30.4187468,-97.75100189999999,"shopping_mall"," point_of_interest"," establishment","","","","","North",False
+285,"El Huarache",4.3,326,30.4362105,-97.68453079999999,"restaurant"," food"," point_of_interest"," establishment","","","","North",False
+286,"Ron Rigsby Pocket Park",4.2,44,30.3643283,-97.7052679,"park"," tourist_attraction"," point_of_interest"," establishment","","","","North",False
+288,"Wooten Neighborhood Park",4.4,104,30.3542211,-97.7202848,"park"," tourist_attraction"," point_of_interest"," establishment","","","","North",False
+289,"Tan My Restaurant",4.6,1061,30.36375,-97.7143031,"restaurant"," food"," point_of_interest"," establishment","","","","North",False
+472,"The Ten Commandments Statue",0,0,30.2752426,-97.7408246,"tourist_attraction"," point_of_interest"," establishment","","","","","North",False
+184,"Be Kind to All Mural",0,0,30.2843294,-97.6903178,"museum"," point_of_interest"," establishment","","","","","North",False
+479,"Clay River Studio",0,0,30.25721729999999,-97.6910556,"point_of_interest"," store"," establishment","","","","","North",False
+487,"Chuy's",4.4,3646,30.418271,-97.74795139999999,"restaurant"," food"," point_of_interest"," establishment","","","","North",False
+488,"Austin Landmark Property Services, Inc. CRMC®, Licensed Texas Realtors®",4.5,99,30.4153427,-97.7477725,"real_estate_agency"," point_of_interest"," establishment","","","","","North",False
+490,"North Park",4.5,2,30.45847969999999,-97.6533699,"park"," point_of_interest"," establishment","","","","","North",False
+492,"Landmark Nurseries",4,19,30.4596451,-97.6540904,"point_of_interest"," establishment","","","","","","North",False
+496,"Diocese of Austin",4.5,48,30.321416,-97.70186249999999,"tourist_attraction"," church"," place_of_worship"," point_of_interest"," establishment","","","North",False
+499,"Stately Pug Manor",0,0,30.3147018,-97.6962126,"museum"," point_of_interest"," establishment","","","","","North",False
+501,"Blunn Creek Nature Preserve",4.6,10,30.2328939,-97.7473141,"tourist_attraction"," park"," point_of_interest"," establishment","","","","North",False
+502,"ReVive!",4.7,32,30.2229967,-97.7458601,"restaurant"," food"," point_of_interest"," establishment","","","","North",False
+503,"Mueller Sunflowers",2.7,9,30.3066128,-97.7126821,"museum"," tourist_attraction"," point_of_interest"," establishment","","","","North",False
+506,"Jewboy Burgers",4.9,573,30.3127408,-97.7150455,"restaurant"," food"," point_of_interest"," establishment","","","","North",False
+508,"Ministerio De Corazon a Corazon",0,0,30.217265,-97.884807,"point_of_interest"," establishment","","","","","","North",False
+509,"Waterloo Ice House Escarpment",4.3,628,30.2034836,-97.8789082,"bar"," restaurant"," food"," point_of_interest"," establishment","","","North",False
+206,"Tannehill Branch Greenbelt",0,0,30.2985208,-97.6889485,"park"," point_of_interest"," establishment","","","","","North",False
+207,"Taqueria Mi Trailita",4.7,308,30.2999967,-97.6854754,"restaurant"," food"," point_of_interest"," establishment","","","","North",False
+214,"شرکت",0,0,30.2914356,-97.75001379999999,"shopping_mall"," point_of_interest"," establishment","","","","","North",False
+215,"Littlefield Fountain",4.7,336,30.28386029999999,-97.73960140000001,"tourist_attraction"," point_of_interest"," establishment","","","","","North",False
+47,"South Congress Square",4.2,93,30.2374261,-97.753006,"shopping_mall"," point_of_interest"," establishment","","","","","North",False
+49,"Flavia’s Kitchen",5,25,30.2418788,-97.758414,"restaurant"," food"," point_of_interest"," establishment","","","","North",False
+50,"Establishment",4.1,43,30.231082,-97.76629,"point_of_interest"," establishment","","","","","","North",False
+51,"The Art of Ice Cream Experience",3.5,62,30.230744,-97.759996,"museum"," point_of_interest"," establishment","","","","","North",False
+52,"Woodlands Park",4.8,6,30.179144,-97.8411909,"park"," tourist_attraction"," point_of_interest"," establishment","","","","Central",False
+48,"Peace Garden",0,0,30.2314077,-97.7562464,"park"," point_of_interest"," establishment","","","","","North",False
+401,"Carnegie Technologies Suite 100",0,0,30.3929702,-97.7519762,"point_of_interest"," establishment","","","","","","North",False
+402,"Chinatown Center",4.3,2068,30.3781229,-97.68628269999999,"shopping_mall"," point_of_interest"," establishment","","","","","North",False
+754,"Fruttilandia",4.4,23,30.1805271,-97.7472326,"restaurant"," food"," point_of_interest"," establishment","","","","Central",False
+755,"Southpark Meadows",4.4,7701,30.1612743,-97.7917681,"shopping_mall"," point_of_interest"," establishment","","","","","Central",False
+757,"Kikos Tacos",5,12,30.1604322,-97.7777062,"restaurant"," food"," point_of_interest"," establishment","","","","Central",False
+758,"Lendmark Financial Services LLC",0,0,30.1666371,-97.788049,"finance"," point_of_interest"," establishment","","","","","Central",False
+99,"Sala Thai Food",4.8,39,30.1492035,-97.8429049,"restaurant"," food"," point_of_interest"," establishment","","","","South",False
+234,"Valentina's Tex Mex BBQ",4.7,3232,30.1530326,-97.83379409999999,"restaurant"," food"," point_of_interest"," establishment","","","","Central",False
+237,"Parmer Crossing",4.1,1604,30.4220519,-97.7017436,"shopping_mall"," point_of_interest"," establishment","","","","","North",False
+238,"Austin Trail",0,0,30.4105253,-97.7117895,"park"," point_of_interest"," establishment","","","","","North",False
+240,"Southwood Shopping Center",4,426,30.2272864,-97.78436029999999,"shopping_mall"," point_of_interest"," establishment","","","","","North",False
+241,"Tahoe Trail Park",0,0,30.2235512,-97.80252990000001,"park"," point_of_interest"," establishment","","","","","North",False
+243,"Johns @ the BREEZE WAY",0,0,30.2324627,-97.7997525,"point_of_interest"," establishment","","","","","","North",False
+245,"Austin's Pizza Cuernavaca",4.1,125,30.34035699999999,-97.86319999999999,"meal_delivery"," meal_takeaway"," restaurant"," food"," point_of_interest"," establishment","","North",False
+272,"Q Bolá Cuba",4.9,73,30.3981431,-97.72692119999999,"restaurant"," food"," point_of_interest"," establishment","","","","North",False
+273,"Landmark Consolidated",3,2,30.4047368,-97.74636269999999,"point_of_interest"," establishment","","","","","","North",False
+274,"Armadillo Neighborhood Park",4,87,30.2000906,-97.7920554,"park"," tourist_attraction"," point_of_interest"," establishment","","","","North",False
+188,"Law Offices",0,0,30.1735923,-97.81408049999999,"point_of_interest"," establishment","","","","","","Central",False
+275,"D d s",0,0,30.2095547,-97.7829087,"shopping_mall"," point_of_interest"," establishment","","","","","North",False
+280,"Longview Neighborhood Park",4.5,250,30.2024718,-97.8262574,"park"," tourist_attraction"," point_of_interest"," establishment","","","","North",False
+283,"The Shops at Wells Branch",4.2,77,30.438397,-97.6974779,"shopping_mall"," point_of_interest"," establishment","","","","","North",False
+284,"Wells Creek Greenbelt",4.1,14,30.4234129,-97.6843717,"park"," point_of_interest"," establishment","","","","","North",False
+760,"Mary Moore Searight",0,0,30.169448,-97.8049855,"park"," tourist_attraction"," point_of_interest"," establishment","","","","Central",False
+763,"Luby's",4.2,1247,30.1701702,-97.79758559999999,"restaurant"," food"," point_of_interest"," establishment","","","","Central",False
+765,"Viva Pueblito",4.7,3,30.15518579999999,-97.6413076,"finance"," point_of_interest"," store"," establishment","","","","Central",False
+766,"Old Moore's Crossing Neighborhood Park",1,1,30.1536808,-97.6450133,"park"," point_of_interest"," establishment","","","","","Central",False
+767,"Los 4 Hermanos Neveria Y Fruteria #2",3.8,79,30.1552525,-97.6413542,"restaurant"," food"," point_of_interest"," establishment","","","","Central",False
+700,"The Village",4.2,546,30.3588686,-97.7344913,"shopping_mall"," point_of_interest"," establishment","","","","","North",False
+586,"Bar W Ranch",0,0,30.1694544,-97.89315309999999,"point_of_interest"," establishment","","","","","","Central",False
+290,"Gary Fish Memorial Hallway",4.5,2,30.3584989,-97.70967499999999,"museum"," point_of_interest"," establishment","","","","","North",False
+292,"Barton Creek Square",4.3,6717,30.25765269999999,-97.80725450000001,"shopping_mall"," point_of_interest"," establishment","","","","","North",False
+294,"Rudy's ""Country Store"" and Bar-B-Q",4.6,1750,30.2635802,-97.8154984,"restaurant"," food"," point_of_interest"," establishment","","","","North",False
+295,"Quail Creek Neighborhood Park",4.2,329,30.36894969999999,-97.70128090000001,"park"," tourist_attraction"," point_of_interest"," establishment","","","","North",False
+299,"Covert Park at Mount Bonnell",4.7,4219,30.3216722,-97.7732083,"park"," tourist_attraction"," point_of_interest"," establishment","","","","North",False
+301,"Chez Zee American Bistro",4.4,1613,30.336684,-97.7579629,"bakery"," bar"," restaurant"," food"," point_of_interest"," store"," establishment","North",False
+304,"Peter Reginato, The Contemporary Austin",0,0,30.3323938,-97.7606165,"museum"," point_of_interest"," establishment","","","","","North",False
+309,"Givens District Park",4.2,513,30.276265,-97.69181200000001,"park"," tourist_attraction"," point_of_interest"," establishment","","","","North",False
+312,"United Music Experience",0,0,30.265754,-97.7085377,"museum"," point_of_interest"," establishment","","","","","North",False
+316,"Longhorn Dam",5,8,30.2504657,-97.7136022,"point_of_interest"," establishment","","","","","","North",False
+317,"The Canyon",0,0,30.3601457,-97.9096836,"point_of_interest"," establishment","","","","","","North",False
+325,"Love Is The Question Mural",4,3,30.2799583,-97.75891419999999,"tourist_attraction"," point_of_interest"," establishment","","","","","North",False
+328,"Jeffrey's",4.7,484,30.280423,-97.75911459999999,"bar"," restaurant"," food"," point_of_interest"," establishment","","","North",False
+332,"Shops at Tech Ridge",4.3,629,30.4148026,-97.670903,"shopping_mall"," point_of_interest"," establishment","","","","","North",False
+334,"Tortilleria Krystal",4,288,30.4086239,-97.64827539999999,"restaurant"," food"," point_of_interest"," establishment","","","","North",False
+341,"Hielscher Tract Greenbelt",4.6,19,30.1939619,-97.8983906,"park"," point_of_interest"," establishment","","","","","Central",False
+342,"Yoda Consultants",0,0,30.1913721,-97.8984559,"point_of_interest"," establishment","","","","","","Central",False
+343,"Commons Ford Ranch Metropolitan Park",4.6,270,30.33630509999999,-97.891369,"park"," tourist_attraction"," point_of_interest"," establishment","","","","North",False
+345,"World's Largest Longhorn",3.8,15,30.2861986,-97.7425615,"tourist_attraction"," point_of_interest"," establishment","","","","","North",False
+351,"Bee Creek Slew",5,1,30.307023,-97.81201449999999,"park"," point_of_interest"," establishment","","","","","North",False
+517,"Stone Windmill",4.4,7,30.2845841,-97.7657121,"point_of_interest"," establishment","","","","","","North",False
+353,"Ecology Action - Circle Acres Nature Preserve",4.5,10,30.2409587,-97.6971014,"tourist_attraction"," park"," point_of_interest"," establishment","","","","North",False
+354,"Delmy's Pupuseria",4.7,134,30.226417,-97.70541600000001,"restaurant"," food"," point_of_interest"," establishment","","","","North",False
+358,"Mission Street Burrito",5,23,30.2430858,-97.7304463,"restaurant"," food"," point_of_interest"," establishment","","","","North",False
+359,"Willie For President Mural",4.7,44,30.24889769999999,-97.7496196,"point_of_interest"," establishment","","","","","","North",False
+361,"Zilker Holiday Tree",4.7,51,30.2662194,-97.7712406,"tourist_attraction"," point_of_interest"," establishment","","","","","North",False
+362,"Lamar Union Plaza",4.4,375,30.2557961,-97.7627332,"shopping_mall"," point_of_interest"," establishment","","","","","North",False
+363,"Lou Neff Point",4.8,304,30.2672311,-97.7617013,"tourist_attraction"," park"," point_of_interest"," establishment","","","","North",False
+364,"Austin foody Moody",5,28,30.2518608,-97.7538869,"restaurant"," food"," point_of_interest"," establishment","","","","North",False
+367,"Little Walnut Creek Greenbelt",4.1,89,30.298976,-97.6670191,"park"," tourist_attraction"," point_of_interest"," establishment","","","","North",False
+369,"Fowler’s Smokin Soul Food",4.8,133,30.3058236,-97.679847,"restaurant"," food"," point_of_interest"," establishment","","","","North",False
+231,"Bauerle Ranch Park",4.5,179,30.1619743,-97.840333,"park"," tourist_attraction"," point_of_interest"," establishment","","","","Central",False
+372,"Taco Brother",4.8,127,30.2068622,-97.83562669999999,"restaurant"," food"," point_of_interest"," establishment","","","","North",False
+374,"Mesa Woods Shopping Center",4.5,25,30.3727601,-97.7559242,"shopping_mall"," point_of_interest"," establishment","","","","","North",False
+375,"Hill School Park",4.8,12,30.3756355,-97.7486304,"park"," point_of_interest"," establishment","","","","","North",False
+380,"Williamson Creek Greenbelt",4.4,63,30.2030627,-97.7655657,"park"," tourist_attraction"," point_of_interest"," establishment","","","","North",False
+381,"Stassney Heights Shopping Central",4.4,18,30.198739,-97.7657693,"shopping_mall"," point_of_interest"," establishment","","","","","Central",False
+383,"Trudy's South Star",4.1,2450,30.1972318,-97.7670715,"bar"," restaurant"," food"," point_of_interest"," establishment","","","Central",False
+384,"The Plantation at Comal Bluff",2,1,30.1922349,-97.7647921,"point_of_interest"," establishment","","","","","","Central",False
+388,"Texas DPS Historical Museum & Research Center",4.7,13,30.326596,-97.7246002,"museum"," tourist_attraction"," point_of_interest"," establishment","","","","North",False
+389,"Cannon Oaks Shopping Center",4.1,143,30.2125962,-97.8302398,"shopping_mall"," point_of_interest"," establishment","","","","","North",False
+390,"Western Oaks Park and Play",4.1,27,30.2205026,-97.8507049,"park"," point_of_interest"," establishment","","","","","North",False
+391,"Cafe Malta",4.5,376,30.2126078,-97.83030149999999,"cafe"," bar"," restaurant"," food"," point_of_interest"," store"," establishment","North",False
+395,"Oye Taquito",4.9,37,30.2209289,-97.8264219,"restaurant"," food"," point_of_interest"," establishment","","","","North",False
+396,"Meditation Station",0,0,30.2156891,-97.8226602,"point_of_interest"," establishment","","","","","","North",False
+398,"Great Hills Park",0,0,30.4076829,-97.75389179999999,"park"," point_of_interest"," establishment","","","","","North",False
+399,"Honest Mary's",4.6,654,30.3951955,-97.7477816,"restaurant"," meal_takeaway"," food"," point_of_interest"," establishment","","","North",False
+403,"Skunk Creek",0,0,30.3833731,-97.6765484,"museum"," point_of_interest"," establishment","","","","","North",False
+407,"The Shops at Arbor Walk",4.2,1687,30.3902012,-97.7328251,"shopping_mall"," point_of_interest"," establishment","","","","","North",False
+410,"Texas Natural History Collections",0,0,30.3831007,-97.7263682,"museum"," point_of_interest"," establishment","","","","","North",False
+411,"Northgate Shopping Center",4.1,611,30.3630699,-97.69817189999999,"shopping_mall"," point_of_interest"," establishment","","","","","North",False
+510,"Tanglewood Park",4.3,96,30.431702,-97.781949,"park"," tourist_attraction"," point_of_interest"," establishment","","","","North",False
+511,"Oak Knoll Village",4.1,132,30.42875859999999,-97.76036479999999,"shopping_mall"," point_of_interest"," establishment","","","","","North",False
+514,"Johnson Creek Greenbelt",4.5,81,30.2825657,-97.7666259,"park"," tourist_attraction"," point_of_interest"," establishment","","","","North",False
+129,"Hyridge Creek Park",4.3,4,30.3835179,-97.75722209999999,"park"," point_of_interest"," establishment","","","","","North",False
+75,"Thai Cuisine",4.5,1122,30.4255218,-97.71698909999999,"restaurant"," food"," point_of_interest"," establishment","","","","North",False
+76,"South Hills Conservation Area",4.8,33,30.2172821,-97.816334,"park"," tourist_attraction"," point_of_interest"," establishment","","","","North",False
+77,"Towne Square",4.1,500,30.2020527,-97.8060094,"shopping_mall"," point_of_interest"," establishment","","","","","North",False
+78,"Garrison Park",4.5,608,30.212007,-97.800518,"park"," tourist_attraction"," point_of_interest"," establishment","","","","North",False
+56,"Willow Bend Park",4.5,75,30.4552398,-97.6805839,"park"," tourist_attraction"," point_of_interest"," establishment","","","","North",False
+57,"Goodwill",4.7,7,30.4604733,-97.6718051,"shopping_mall"," point_of_interest"," establishment","","","","","North",False
+59,"Joe’s Italian Kitchen",4.4,245,30.4552146,-97.65949599999999,"restaurant"," food"," point_of_interest"," store"," establishment","","","North",False
+60,"Landmark Electric",3.5,4,30.4671785,-97.66208429999999,"point_of_interest"," establishment","","","","","","North",False
+61,"Parke Green",4.1,353,30.2345573,-97.7211165,"shopping_mall"," point_of_interest"," establishment","","","","","North",False
+79,"Moreno Barbecue",4.9,69,30.2152939,-97.79860939999999,"restaurant"," food"," point_of_interest"," establishment","","","","North",False
+80,"Casa de Queso",0,0,30.2089383,-97.801394,"night_club"," point_of_interest"," establishment","","","","","North",False
+81,"Mayfield Cottage and Gardens",4.7,44,30.3128341,-97.7713974,"park"," tourist_attraction"," point_of_interest"," establishment","","","","North",False
+82,"Casis Shopping Center",4.1,132,30.30413609999999,-97.7640833,"shopping_mall"," point_of_interest"," establishment","","","","","North",False
+149,"Spicewood Park",4.8,8,30.4464378,-97.8039694,"park"," tourist_attraction"," point_of_interest"," establishment","","","","North",False
+150,"Galleria Oaks",4.1,551,30.4448534,-97.7893586,"shopping_mall"," point_of_interest"," establishment","","","","","North",False
+515,"Eilers (Deep Eddy) Neighborhood Park",4.6,424,30.276623,-97.7725719,"park"," tourist_attraction"," point_of_interest"," establishment","","","","North",False
+516,"Hula Hut",4.2,4446,30.2946928,-97.7844186,"restaurant"," food"," point_of_interest"," establishment","","","","North",False
+519,"Stassney Square",4.2,516,30.2086564,-97.7801396,"shopping_mall"," point_of_interest"," establishment","","","","","North",False
+524,"2n1 Salad Bar and Grill",4.6,170,30.3820721,-97.6893755,"restaurant"," food"," point_of_interest"," store"," establishment","","","North",False
+525,"Davenport Village",4.4,197,30.33660639999999,-97.8041246,"shopping_mall"," point_of_interest"," establishment","","","","","North",False
+526,"Davenport Rim",0,0,30.3254126,-97.8102054,"point_of_interest"," establishment","","","","","","North",False
+527,"Jade Restaurant",4.4,191,30.3352979,-97.804464,"restaurant"," food"," point_of_interest"," establishment","","","","North",False
+529,"Burnet Place Center",4.2,17,30.3639838,-97.7294636,"shopping_mall"," point_of_interest"," establishment","","","","","North",False
+531,"Baby Greens",4.5,144,30.3523178,-97.72220349999999,"restaurant"," food"," point_of_interest"," store"," establishment","","","North",False
+532,"Ci Sports Bar Night Club",0,0,30.3659423,-97.7282597,"bar"," point_of_interest"," establishment","","","","","North",False
+534,"10204 Tularosa Pass",5,1,30.430628,-97.820594,"point_of_interest"," establishment","","","","","","North",False
+536,"ANTOINE PEVSNER, COLUMN OF PEACE - sculpture, UT Landmarks",0,0,30.286095,-97.73123609999999,"museum"," point_of_interest"," establishment","","","","","North",False
+537,"Vic and Al's",5,72,30.2849876,-97.7169883,"restaurant"," food"," point_of_interest"," establishment","","","","North",False
+540,"Old Bones New Soul Mural",0,0,30.2557248,-97.76230269999999,"tourist_attraction"," point_of_interest"," establishment","","","","","North",False
+543,"Confituras Little Kitchen",4.9,77,30.24801149999999,-97.77361069999999,"restaurant"," food"," point_of_interest"," establishment","","","","North",False
+544,"Fairy Alley",4.7,3,30.2569908,-97.7636436,"museum"," point_of_interest"," establishment","","","","","North",False
+550,"Lucy Read",4.9,8,30.35164129999999,-97.7363227,"park"," tourist_attraction"," point_of_interest"," establishment","","","","North",False
+552,"Beverly S. Sheffield Northwest District Park",4.5,426,30.348683,-97.7413284,"park"," tourist_attraction"," point_of_interest"," establishment","","","","North",False
+553,"Tres Monarcas",5,18,30.3446208,-97.736576,"restaurant"," food"," point_of_interest"," establishment","","","","North",False
+554,"Air Conditioned Village",0,0,30.3431732,-97.74073949999999,"point_of_interest"," establishment","","","","","","North",False
+555,"Creekside Square",4.2,73,30.3612664,-97.73996029999999,"shopping_mall"," point_of_interest"," establishment","","","","","North",False
+558,"Exoskeleton",0,0,30.2581202,-97.74076099999999,"tourist_attraction"," point_of_interest"," establishment","","","","","North",False
+559,"2nd Street District",4.4,2253,30.2655,-97.74709999999999,"shopping_mall"," point_of_interest"," establishment","","","","","North",False
+561,"The Heel of the Boot",5,22,30.266322,-97.73506019999999,"restaurant"," food"," point_of_interest"," establishment","","","","North",False
+562,"Texas Capitol",4.7,2685,30.2746652,-97.74035049999999,"tourist_attraction"," local_government_office"," point_of_interest"," establishment","","","","North",False
+564,"Gaines Creek Neighborhood Park",0,0,30.2417869,-97.833564,"park"," tourist_attraction"," point_of_interest"," establishment","","","","North",False
+567,"Milano Cafe",4.4,324,30.2394444,-97.8319444,"cafe"," restaurant"," food"," point_of_interest"," establishment","","","North",False
+568,"Landmark Exams",5,2,30.23529569999999,-97.84686459999999,"point_of_interest"," establishment","","","","","","North",False
+573,"Fonda San Miguel",4.6,1747,30.3255702,-97.74337489999999,"bar"," restaurant"," food"," point_of_interest"," establishment","","","North",False
+577,"ABBY AT BEN WHITE",4.2,34,30.2204609,-97.75697339999999,"shopping_mall"," point_of_interest"," establishment","","","","","North",False
+122,"JoJo Electro",1,1,30.3694543,-97.8925345,"point_of_interest"," establishment","","","","","","North",False
+235,"Clan McK",0,0,30.1569995,-97.8465289,"point_of_interest"," establishment","","","","","","Central",False
+579,"AUTENTICOS MICHOACANOS",4.7,27,30.2186967,-97.7659466,"restaurant"," food"," point_of_interest"," establishment","","","","North",False
+581,"Bull Creek Market",4,23,30.3608097,-97.7891844,"shopping_mall"," point_of_interest"," establishment","","","","","North",False
+582,"St. Theresa of Lisieux Catholic Church",4.9,73,30.3431952,-97.77486460000002,"tourist_attraction"," church"," place_of_worship"," point_of_interest"," establishment","","","North",False
+583,"County Line",4.4,2937,30.357107,-97.7856212,"bar"," restaurant"," food"," point_of_interest"," establishment","","","North",False
+584,"Cook School Park",4.4,49,30.37681529999999,-97.70450439999999,"park"," point_of_interest"," establishment","","","","","North",False
+585,"Los Arcos Taqueria",4.5,53,30.3776344,-97.71071859999999,"restaurant"," food"," point_of_interest"," establishment","","","","North",False
+587,"Gus Fruh",4.6,198,30.2479127,-97.7964269,"tourist_attraction"," park"," point_of_interest"," establishment","","","","North",False
+591,"Landmark Barton Creek Apartments",3.8,88,30.2578728,-97.79194,"point_of_interest"," establishment","","","","","","North",False
+592,"Park",4.1,9,30.27810259999999,-97.6279713,"park"," point_of_interest"," establishment","","","","","North",False
+593,"Mi Casita Restaurant",4.2,119,30.2683367,-97.6268071,"restaurant"," food"," point_of_interest"," establishment","","","","North",False
+5,"Bullock Texas State History Museum",4.7,4376,30.2802637,-97.7387272,"tourist_attraction"," museum"," point_of_interest"," establishment","","","","North",False
+596,"LBJ Presidential Library",4.6,852,30.28585589999999,-97.7292544,"museum"," tourist_attraction"," point_of_interest"," establishment","","","","North",False
+604,"Music Lane",0,0,30.2525609,-97.7482272,"shopping_mall"," point_of_interest"," establishment","","","","","North",False
+607,"Moonlight Tower - Monroe/S 1st",4.4,7,30.2494197,-97.75527679999999,"point_of_interest"," establishment","","","","","","North",False
+608,"Muse Maison",5,1,30.2519162,-97.7567072,"museum"," point_of_interest"," establishment","","","","","North",False
+609,"Colorado River Park Wildlife Sanctuary",4,68,30.246767,-97.695284,"park"," tourist_attraction"," point_of_interest"," establishment","","","","North",False
+611,"Samy sazón tacos food truck",5,36,30.2528758,-97.7112382,"restaurant"," food"," point_of_interest"," establishment","","","","North",False
+615,"Parmer Lane Plaza",4.2,110,30.403532,-97.6758813,"shopping_mall"," point_of_interest"," establishment","","","","","North",False
+617,"Ng Cafe",4.8,426,30.4113737,-97.6756822,"restaurant"," food"," point_of_interest"," establishment","","","","North",False
+619,"Central Park Shopping Center",4.6,449,30.3075156,-97.74031710000001,"shopping_mall"," point_of_interest"," establishment","","","","","North",False
+623,"Austin Ghost Tours",4,24,30.2284287,-97.84204369999999,"tourist_attraction"," travel_agency"," point_of_interest"," establishment","","","","North",False
+624,"Shops at Arbor Trails",4.4,1219,30.2215036,-97.8411819,"shopping_mall"," point_of_interest"," establishment","","","","","North",False
+625,"Williamson Creek West Greenbelt",4.8,16,30.2261435,-97.84167599999999,"park"," tourist_attraction"," point_of_interest"," establishment","","","","North",False
+626,"Cypress Grill",4.6,1471,30.2238132,-97.8389198,"bar"," restaurant"," food"," point_of_interest"," establishment","","","North",False
+646,"Hecho En Mexico Restaurant",4.4,746,30.2283738,-97.8633845,"bar"," restaurant"," food"," point_of_interest"," establishment","","","North",False
+647,"Barrow Nature Preserve",4.2,17,30.3721715,-97.7687555,"tourist_attraction"," park"," point_of_interest"," establishment","","","","North",False
+649,"Abandoned VW bus",4.6,18,30.3719413,-97.7807188,"point_of_interest"," establishment","","","","","","North",False
+651,"Parque",0,0,30.2116968,-97.7176978,"museum"," point_of_interest"," establishment","","","","","North",False
+652,"Killa Wasi",4.8,56,30.211302,-97.7360537,"restaurant"," food"," point_of_interest"," establishment","","","","North",False
+655,"Rundberg Square Shopping Center",3.9,656,30.356613,-97.6865649,"shopping_mall"," point_of_interest"," establishment","","","","","North",False
+658,"Kingdom Hall of Jehovah's Witnesses",0,0,30.2573343,-97.90537289999999,"church"," place_of_worship"," point_of_interest"," establishment","","","","North",False
+661,"Riata Neighborhood Park",4.3,62,30.42843719999999,-97.73949410000002,"park"," point_of_interest"," establishment","","","","","North",False
+663,"Halliburton Financial Services",0,0,30.4299257,-97.74816709999999,"finance"," point_of_interest"," establishment","","","","","North",False
+513,"Caspian Grill",4.6,742,30.4287212,-97.7604042,"restaurant"," food"," point_of_interest"," establishment","","","","North",False
+671,"Tacodeli",4.7,1940,30.2584657,-97.78758189999999,"restaurant"," food"," point_of_interest"," establishment","","","","North",False
+673,"Austin Nature & Science Center Outpost",5,1,30.2692436,-97.7792618,"museum"," point_of_interest"," establishment","","","","","North",False
+676,"Statesman Bat Observation Center",4.4,689,30.2599308,-97.74560070000001,"tourist_attraction"," point_of_interest"," establishment","","","","","North",False
+680,"Springdale Neighborhood Park",3,2,30.2775139,-97.68202169999999,"park"," tourist_attraction"," point_of_interest"," establishment","","","","North",False
+689,"Houston School Park",4.2,69,30.1964787,-97.7554729,"park"," tourist_attraction"," point_of_interest"," establishment","","","","Central",False
+690,"AutoNation Toyota Drop Lot",4,4,30.2068396,-97.7612078,"shopping_mall"," point_of_interest"," establishment","","","","","North",False
+691,"Ponciana Neighborhood Park",4.1,48,30.2007911,-97.7550819,"park"," tourist_attraction"," point_of_interest"," establishment","","","","North",False
+692,"Taqueria Lopez",4.7,54,30.2025688,-97.7522415,"restaurant"," food"," point_of_interest"," establishment","","","","North",False
+693,"Austin Rock & Roll Car Museum",4.4,28,30.210184,-97.740911,"museum"," tourist_attraction"," point_of_interest"," establishment","","","","North",False
+695,"Shoal Creek Greenbelt",4.6,269,30.2921776,-97.75062109999999,"park"," tourist_attraction"," point_of_interest"," establishment","","","","North",False
+696,"Olive & June",4.4,500,30.3073168,-97.75113060000001,"meal_takeaway"," bar"," restaurant"," food"," point_of_interest"," establishment","","North",False
+628,"Gracywoods Neighborhood Park",4.6,330,30.4048608,-97.69636109999999,"park"," tourist_attraction"," point_of_interest"," establishment","","","","North",False
+638,"Triangle Commons Park",4.3,58,30.3145099,-97.733522,"park"," tourist_attraction"," point_of_interest"," establishment","","","","North",False
+639,"Plaza 5000",4.4,32,30.318503,-97.73132009999999,"shopping_mall"," point_of_interest"," establishment","","","","","North",False
+641,"Bistro Vonish",4.7,274,30.3152855,-97.7166364,"restaurant"," food"," point_of_interest"," establishment","","","","North",False
+643,"Latta Branch Greenbelt",4.5,91,30.2164015,-97.8646874,"park"," tourist_attraction"," point_of_interest"," establishment","","","","North",False
+644,"Legend Oaks Plaza",4.2,9,30.228388,-97.86291489999999,"shopping_mall"," point_of_interest"," establishment","","","","","North",False
+699,"Austin Temple of Cao Đài",0,0,30.3748878,-97.6219754,"place_of_worship"," point_of_interest"," establishment","","","","","North",False
+702,"Eldorado Cafe",4.6,1432,30.3618593,-97.74255029999999,"restaurant"," food"," point_of_interest"," establishment","","","","North",False
+704,"Crossroads Shopping Center",4.1,675,30.3725459,-97.72746269999999,"shopping_mall"," point_of_interest"," establishment","","","","","North",False
+202,"Northcross Center",4.4,197,30.3551807,-97.73323669999999,"shopping_mall"," point_of_interest"," establishment","","","","","North",False
+204,"Tea Amo",5,18,30.3550883,-97.7327263,"cafe"," restaurant"," food"," point_of_interest"," establishment","","","North",False
+218,"Neill-Cochran House Museum",4.5,85,30.2874729,-97.7482836,"museum"," tourist_attraction"," point_of_interest"," establishment","","","","North",False
+219,"Before I Die Wall Austin TX",4.6,116,30.2485372,-97.7480186,"tourist_attraction"," point_of_interest"," establishment","","","","","North",False
+220,"Willow Court",4.2,152,30.2307792,-97.7321224,"shopping_mall"," point_of_interest"," establishment","","","","","North",False
+223,"Larry Monroe Forever Bridge",4.1,8,30.2474771,-97.7444058,"museum"," tourist_attraction"," point_of_interest"," establishment","","","","North",False
+229,"Gonzalez Guerrero Tire Shop",4.5,60,30.2093423,-97.6505327,"car_repair"," point_of_interest"," store"," establishment","","","","North",False
+664,"ATX ZT",0,0,30.4282684,-97.7542246,"point_of_interest"," establishment","","","","","","North",False
+281,"Mami's tacos",4.8,159,30.2000003,-97.8080369,"restaurant"," food"," point_of_interest"," establishment","","","","North",False
+303,"C Pubs",0,0,30.3318655,-97.7573925,"bar"," point_of_interest"," establishment","","","","","North",False
+378,"Heritage Oaks Neighborhood Park",4.7,43,30.2343259,-97.7372273,"park"," tourist_attraction"," point_of_interest"," establishment","","","","North",False
+287,"Centre North",3.6,16,30.3518383,-97.7098017,"shopping_mall"," point_of_interest"," establishment","","","","","North",False
+565,"Oak Acres",4.8,5,30.2370336,-97.8469136,"shopping_mall"," point_of_interest"," establishment","","","","","North",False
+260,"Burgerlicious",5,18,30.2727039,-97.7285304,"restaurant"," food"," point_of_interest"," establishment","","","","North",False
+580,"P Men's Club",5,5,30.2191314,-97.7582626,"bar"," point_of_interest"," establishment","","","","","North",False
