@@ -5,8 +5,7 @@ from sqlalchemy import Column, Integer, String, Float, Boolean
 from sqlalchemy import create_engine
 from sqlalchemy.orm import Session
 import os
-import numpy as np
-import pprint
+import json
 
 Base = declarative_base()
 class AustinLocations(Base):
@@ -54,7 +53,6 @@ def index():
 
 @app.route("/user_input", methods=['POST','GET'])
 def user_input():
-        id = 10001
         name = request.form.get('name')
         latitude_region = request.form.get('latitude_region')
         types1 = request.form.get('types1')
@@ -68,8 +66,7 @@ def user_input():
         types5 = "none"
         types6 = "none"
         types7 = "none"
-        id +=1
-        new_location = AustinLocations(id=id, name=name, rating=rating, types1=types1, latitude=latitude, longitude=longitude, types2=types2, types3=types3, types4=types4, types5=types5, types6=types6, types7=types7, latitude_region=latitude_region, user_input=True)
+        new_location = AustinLocations(name=name, rating=rating, types1=types1, latitude=latitude, longitude=longitude, types2=types2, types3=types3, types4=types4, types5=types5, types6=types6, types7=types7, latitude_region=latitude_region, user_input=True)
         session.add(new_location)
         session.commit()
         
@@ -78,54 +75,61 @@ def user_input():
 
 @app.route("/filtered_data/")
 def filtered_data():
-    data = []
+    loc_data = []
 
-    north_data = session.query(AustinLocations).filter(AustinLocations.latitude_region == "North").all()
-    location_data = str(list(np.ravel(north_data)))
-
+    north_data = session.query(AustinLocations).filter(AustinLocations.latitude_region == "North").filter(AustinLocations.rating >= 4.0).filter(AustinLocations.types1 == "restaurant").all()
+    
     for record in north_data:
-        dict={
+        location_dict={
             "name": record.name,
             "ratings": record.rating,
+            "num_user_ratings": record.user_ratings_total,
             "location": record.latitude_region,
             "type": record.types1
         }
-        data.append(dict)
+        loc_data.append(location_dict)
 
-    return jsonify(data)
-
-
-    # if request.method == 'GET':
-    #     return f"The URL /filtered_data is accessed directly. Try going to /user_input to submit form"
-    # if request.method == 'POST':
-    #     user_input_data = request.user_input
-    #     return render_template("filtered_data.html", user_input_data = user_input_data)
-
-    # most_active_last12 = session.query(measurement.tobs, measurement.date).filter(measurement.station == 'USC00519281').filter(measurement.date >= one_year_ago_tobs,  measurement.date <= last_date_tobs).all()    
-# most_active_last12_1_df = pd.DataFrame(most_active_last12, columns=["date", "temp"])        
-# temps = list(np.ravel(most_active_last12))                
-# return jsonify(temps=temps)
-
+    return jsonify(loc_data)
 
 @app.route("/visualizations")
 def visualizations():
+    return render_template("visualizations.html")
+
+@app.route("/final_schedule", methods=['GET','POST'])
+def final_schedule():
     return "hi"
+    # results = []
 
-@app.route("/final_schedule")
-def final_schedule(search):
-    results = []
-    search_string = search.data['search']
+    # # if request.method == 'POST':
+    # latitude_region = request.form.get('latitude_region')
+    # type1 = request.form.get('types1')        
+    # rating = request.form.get('rating')
 
-    if search_string:
-        if search.data['select'] == 'North Austin':
-            qry = db.sessions.query(AustinLocations.latitude_region == "North").filter()
-            results = qry.all()
+    # query = session.query(AustinLocations).all()
 
-            return render_template("final_schedule.html", times=times, results=results)
+    # for record in query:
+    #     schedule_dict={
+    #         "time": "9:00 AM",
+    #         "name": "",
+    #         "location": session.query.filter(AustinLocations.latitude_region == latitude_region),
+    #         "type1": session.query.filter(AustinLocations.types1 == request.form.get('types1')),
+    #         "rating": session.query.filter(AustinLocations.rating == request.form.get('rating')),
+    #     }
+    #     results.append(schedule_dict)
+
+
+    #     # if latitude_region:
+    #     #     query = query.filter(AustinLocations.latitude_region == latitude_region)
+    #     # if type:
+    #     #     query = query.filter(AustinLocations.types1 == type)
+    #     # if rating:
+    #     #     query = query.filter(AustinLocations.rating == rating)
         
+    # return render_template("final_schedule.html", times=times, results=results)
+    
 
-    locations_db = session.query(AustinLocations).filter().all()
-    return render_template("final_schedule.html", times=times)
+    # locations_db = session.query(AustinLocations).filter().all()
+    # return render_template("final_schedule.html", times=times)
 
 if __name__ == "__main__":
     app.run(debug=True)
